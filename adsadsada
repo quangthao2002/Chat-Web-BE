@@ -1,0 +1,237 @@
+[33mcommit 8cd41c0a57243d0361e795247766518fb4380ed4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Sun Apr 7 18:57:09 2024 +0700
+
+    Handle seen and typing message
+
+[33mcommit f56d779d7802d19c637c7c6abdea3c813f1a694d[m
+Merge: a0b9f81 a2bb720
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Sat Apr 6 17:44:29 2024 +0700
+
+    Merge branch 'main' of https://github.com/Ango2209/ChatHub
+
+[33mcommit a0b9f813b0cbe324cf59b8414b0a064478da5730[m
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Sat Apr 6 17:44:25 2024 +0700
+
+    add chat features
+
+[33mcommit a2bb72093d2d4a7c1f9d30942802f315c18a6a14[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 758e0bb 31f856c
+Author: Nguyễn Văn Ngọ <87849233+Ango2209@users.noreply.github.com>
+Date:   Sat Apr 6 17:42:08 2024 +0700
+
+    Merge pull request #2 from Ango2209/profile-user
+    
+    Profile-User
+
+[33mcommit 31f856cb2dbf01421264f864ef132fbfe4e5253d[m
+Merge: 72b5b4a 758e0bb
+Author: Nguyễn Văn Ngọ <87849233+Ango2209@users.noreply.github.com>
+Date:   Sat Apr 6 17:42:01 2024 +0700
+
+    Merge branch 'main' into profile-user
+
+[33mcommit 72b5b4a08ecd69466476dc29a3ad0d79775c9dc0[m
+Author: quangthao2002 <quangthao2212002@gmail.com>
+Date:   Sat Apr 6 16:39:33 2024 +0700
+
+    profile-user
+
+[33mcommit 758e0bb6ef6c2f5324a31da24d92034322047c63[m
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Thu Apr 4 23:03:50 2024 +0700
+
+    Add send multiple file and emoji
+
+[33mcommit e74070cc0e4168cae7be87a6062a5a3dcea890ea[m
+Merge: 07057d1 d191054
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Thu Apr 4 22:37:33 2024 +0700
+
+    Merge branch 'dev-friend' of https://github.com/Ango2209/ChatHub
+
+[33mcommit 07057d1b2e129030d7d1689d448081a70313a775[m
+Merge: 87f1933 a10928b
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Thu Apr 4 22:17:32 2024 +0700
+
+    fix image
+
+[33mcommit 87f1933ec4cbfa87a87c32cd0017a558ce41b8d0[m
+Merge: 2e17ce6 4760b92
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Thu Apr 4 11:54:39 2024 +0700
+
+    Merge branch 'main' of https://github.com/Ango2209/ChatHub
+
+[33mcommit 2e17ce624067e1cd4ba8415bafe31195c3062abf[m
+Merge: 18a6e9a c597340
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Thu Apr 4 11:53:44 2024 +0700
+
+    Resolve merge conflicts
+
+[33mcommit 4760b929a41536abcfa8da6431991e66b0c65cd8[m
+Merge: e4edc7c c597340
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Thu Apr 4 02:06:38 2024 +0700
+
+    Merge branch 'main' of https://github.com/Ango2209/ChatHub
+
+[33mcommit e4edc7cc8750e80781496ffb4273f8a644e159fb[m
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Thu Apr 4 02:06:17 2024 +0700
+
+    add file handle
+
+[33mcommit a10928b96dc59a2e7743ea448f2c786fe67f80e1[m
+Merge: 21ac9a9 c597340
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Wed Apr 3 16:16:16 2024 +0700
+
+    mergh chat
+
+[33mcommit 21ac9a98359827cb9c3dabea2f5054f724210d34[m
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Wed Apr 3 15:54:17 2024 +0700
+
+    create-group
+
+[33mcommit d191054e01983e204251ccae3709b9c115d96ed5[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Wed Apr 3 09:32:33 2024 +0700
+
+    dev-friend_fix: fix bug import
+
+[33mcommit 08d33bfd5b28e4889cdf531aed243454ad6e8e9d[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Wed Apr 3 08:02:29 2024 +0700
+
+    dev-friend_feat: Add UserGateway to AppModule and UserModule
+
+[33mcommit c59734006351d78ef05c4b189608cb0beaaae6ea[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Tue Apr 2 23:05:07 2024 +0700
+
+    dev_fix: handle mailer
+
+[33mcommit 48a8e3f267d82a5a45aee1104c7e8f82120f689a[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Mon Apr 1 17:09:59 2024 +0700
+
+    main_style: style welcome email template
+
+[33mcommit fabfdca06d5980b0b4c75a193672003662faa9d0[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Mon Apr 1 17:05:41 2024 +0700
+
+    main_style: style welcome email template
+
+[33mcommit c0fb5c4896640a6510cbdfb76736b4abcb02fabd[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Mon Apr 1 14:44:54 2024 +0700
+
+    main_style: update css welcome.hbs
+
+[33mcommit ac8d17111dab74456a3e16df86375a99e8420eec[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Mon Apr 1 01:27:58 2024 +0700
+
+    dev_fix: Update user confirmation URL
+
+[33mcommit f3eb3363b2ad098777944c0c91e3129e363402b1[m[33m ([m[1;31morigin/dev-mail[m[33m)[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Mon Apr 1 01:20:16 2024 +0700
+
+    dev-mail: update logic verify email
+
+[33mcommit 71121d4bef783102ea4c361d27d95590d1c2ee3e[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Sun Mar 31 16:42:27 2024 +0700
+
+    dev-mail_feat: init mailer
+
+[33mcommit f1fc0ccaa2b3ded204fc137400715db116f61074[m
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Sat Mar 30 11:37:07 2024 +0700
+
+    modify add friend feature
+
+[33mcommit 18a6e9a2ca72cf20c11b0f85aef331a49f2fb563[m
+Merge: aeab40d 2e876e2
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Thu Mar 28 10:08:34 2024 +0700
+
+    Resolved merge conflicts
+
+[33mcommit aeab40d2a3146a0df44280212f8af59c7d8c99ff[m
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Thu Mar 28 09:57:02 2024 +0700
+
+    chat-group
+
+[33mcommit 2e876e2c8f46eac831e95b2042b309c0030c55d5[m
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Wed Mar 27 23:50:52 2024 +0700
+
+    Add send image feature
+
+[33mcommit 1b7eeb31f09558352f38b29cb126fb06f44300b0[m
+Merge: cc5d616 e4208b2
+Author: Nguyễn Văn Ngọ <87849233+Ango2209@users.noreply.github.com>
+Date:   Sun Mar 24 16:33:10 2024 +0700
+
+    Merge pull request #1 from Ango2209/chat-message
+    
+    Chat message
+
+[33mcommit e4208b2a3ac09b774457b7c53361a005335a6766[m[33m ([m[1;31morigin/chat-message[m[33m)[m
+Merge: 510ded2 cc5d616
+Author: Nguyễn Văn Ngọ <87849233+Ango2209@users.noreply.github.com>
+Date:   Sun Mar 24 16:32:32 2024 +0700
+
+    Merge branch 'main' into chat-message
+
+[33mcommit 510ded23c640a6b295435f53e34723f7b8332f80[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Sun Mar 24 16:25:32 2024 +0700
+
+    fix: handle connection
+
+[33mcommit 78d5487d40e9af15a7aeb040a4191e3eafe75152[m
+Author: le-dat <lqdat87@gmail.com>
+Date:   Sun Mar 24 12:45:51 2024 +0700
+
+    fix: fix message gateway
+
+[33mcommit cc5d616bd197b2252edc7a056332bc20cafb65b3[m
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Thu Mar 21 23:42:56 2024 +0700
+
+    fix getConversations
+
+[33mcommit cdeb3355dede8100139972f131ee2971d1be44c6[m
+Author: quangthao2002 <quangthao22122002@gmail.com>
+Date:   Wed Mar 20 23:24:48 2024 +0700
+
+    chat 1-1
+
+[33mcommit f87b9d839b3c69734bdbf4c3f79c262b930c9f7e[m
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Wed Feb 21 21:32:19 2024 +0700
+
+    alter table user
+
+[33mcommit 38084993e74ad12b6865f1a8adb403845ef1e31c[m
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Wed Feb 21 21:16:30 2024 +0700
+
+    alter table user
+
+[33mcommit 60894b56b2378e0882b1f673114b37d8fcd8be51[m
+Author: Ango2209 <anhngole1105@gmail.com>
+Date:   Thu Feb 8 09:40:55 2024 +0700
+
+    add code to git
